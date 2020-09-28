@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ReactJS_Working-with_Parcel"
+		},
+		{
+			"path": "../../ReactJS_Working-with_Nx"
+		},
+		{
+			"path": "../../ReactJS_Working-with_ReactJS"
+		},
+		{
+			"path": "../../ReactJS_Awesome"
+		},
+		{
+			"path": "../../ReactNative_Awesome"
+		},
+		{
+			"path": "../../ReactNative_Working-with_ReactNative"
+		},
+		{
+			"path": "../../ReactNative_Working-with_Expo"
+		}
+	],
+	"settings": {}
+}
